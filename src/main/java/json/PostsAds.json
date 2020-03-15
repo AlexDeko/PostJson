@@ -2,7 +2,7 @@
   {
     "id":1,
     "author":"ООО Лучшие перелёты",
-    "postType":"PostType.POST",
+    "postType":"PostType.ADS",
     "text":"Поможем улететь в страну мечты!",
     "date":"05.03.20",
     "like":{"count":37223, "isLiked":false},
