@@ -1,0 +1,13 @@
+[
+  {
+    "id":1,
+    "author":"ООО Лучшие перелёты",
+    "postType":"PostType.POST",
+    "text":"Поможем улететь в страну мечты!",
+    "date":"05.03.20",
+    "like":{"count":37223, "isLiked":false},
+    "comment":{"count":86, "canPost":false},
+    "adsUrl":"https://yandex.ru/images/search?text=самолёт&from=tabbar",
+    "reply":{"count":333}
+  }
+]
