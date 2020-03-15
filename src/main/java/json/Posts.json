@@ -5,7 +5,7 @@
     "postType":"PostType.POST",
     "text":"Мы скромные!",
     "date":"25.02.20",
-    "like": {"count":0, "isLiked":false},
+    "like":{"count":0, "isLiked":false},
     "comment":{"count":33, "canPost":false},
     "reply":{"count":33}
   },
@@ -15,7 +15,7 @@
     "postType":"PostType.POST",
     "text":"Мы скромные!",
     "date":"25.02.20",
-    "like": {"count":0, "isLiked":false},
+    "like":{"count":0, "isLiked":false},
     "comment":{"count":33, "canPost":false},
     "reply":{"count":33}
   },
@@ -25,7 +25,7 @@
     "postType":"PostType.POST",
     "text":"Мы скромные!",
     "date":"25.02.20",
-    "like": {"count":0, "isLiked":false},
+    "like":{"count":0, "isLiked":false},
     "comment":{"count":33, "canPost":false},
     "reply":{"count":33}
   },
@@ -35,7 +35,7 @@
     "postType":"PostType.POST",
     "text":"Мы скромные!",
     "date":"25.02.20",
-    "like": {"count":0, "isLiked":false},
+    "like":{"count":0, "isLiked":false},
     "comment":{"count":33, "canPost":false},
     "reply":{"count":33}
   },
@@ -45,7 +45,7 @@
     "postType":"PostType.POST",
     "text":"Мы скромные!",
     "date":"25.02.20",
-    "like": {"count":0, "isLiked":false},
+    "like":{"count":0, "isLiked":false},
     "comment":{"count":33, "canPost":false},
     "reply":{"count":33}
   }
